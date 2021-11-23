@@ -39,4 +39,4 @@ npm run serve
 ## Visualizando
 
 Apoós isso, voce pode fazer teste na api uasdno algum software no link: http://127.0.0.1:8080/
-A interface poderá ser vista no link: http://192.168.0.6:80/
+A interface poderá ser vista no link: http://127.0.0.1:80/
