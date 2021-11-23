@@ -1,0 +1,21 @@
+.h-full {
+  min-height: 100vh;
+
+  &.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+/* Screans */
+@media only screen and (max-width: 768px) {
+  .container {
+    width: calc(100% - 32px) !important;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .container {
+    width: 90%;
+  }
+}
