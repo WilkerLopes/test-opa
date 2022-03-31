@@ -12,6 +12,7 @@
   },
   "paths": {
     "/banners/count": {
+      "description": "Banner model count asbdfansd apsdf asldfna s",
       "get": {
         "x-controller-name": "BannerController",
         "x-operation-name": "count",
